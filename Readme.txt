@@ -1,1 +1,65 @@
-123456
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>你好，GitHub</title>
+<style>
+<style type="text/css">
+table,tr,th{
+	border:1px solid black;
+	border-collapse:collapse;
+	background-color:green;
+}
+#Header{
+　width:360px;
+　height:80px;
+　text-align:center;
+　line-height:80px;
+　font-size:15px;
+　color:#fffaf3;
+　font-weight:bold;
+　background-color:#f9c81e;
+}
+	
+	
+#Footer{
+　width:360px;
+　height:80px;
+　text-align:center;
+　line-height:80px;
+　font-size:15px;
+　color:#fffaf3;
+　font-weight:bold;
+　background-color:#f9c81e;
+}	
+body{
+background-color:lightblue;
+}
+</style>
+</head>
+  <body>
+    <h1 align=center >Welcome to peter`s Collection	</h1>
+	
+<table border="1" align="left"> 
+<tr>	
+<th><a href="https://google.com/" style="text-decoration:none;">google首頁</th>
+<tr>
+<th><a href="https://peter14067.github.io/project-1/index.html" style="text-decoration:none;">第一個作品集</th>
+    
+</table>
+
+
+
+
+
+<script>
+mouseover=;
+</script>
+
+
+
+
+
+
+  </body>
+</html>
